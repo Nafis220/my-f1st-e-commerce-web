@@ -1,0 +1,62 @@
+.Buy-btn
+{
+    background-image: linear-gradient(to bottom, #FF589B 0%, #FF136F 100%);
+    color: #fff;
+    border: none;
+    border-radius: 8px;
+    padding: 9px 25px;
+    cursor: pointer;
+}
+.card 
+{
+    border:none;
+    box-shadow: 5px 5px 10px lightgray;
+}
+.container 
+{
+    margin-bottom: 100px;
+}
+.card-footer {
+    
+    background-color: white;
+     border-top: none; 
+}
+#subscribe
+{
+    height: 300px;
+    background-color: #FCEAE8;
+}
+footer
+{
+    text-align: center;
+}
+.carousel-item
+{
+    background: #FCEAE8;
+    padding: 10px 30px;
+}
+.pink-text
+{
+    color: #FF136F;
+}
+.categories img 
+{
+    width:30%
+}
+.cat1
+{
+background: #FFA500;
+}
+.cat2
+{
+background: #DA70D6;
+}
+.cat3
+{
+background: #0000FF;
+}
+.cat1, .cat2, .cat3 
+{
+    padding: 10px 0;
+    border-radius: 10px;
+}
